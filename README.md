@@ -46,7 +46,7 @@ The steps should be listed in a way that it prepares the system environment to b
 
 
  
- ## Related Redis books and videos
+ ## Related Splunk books and videos
 
 * [Mastering Splunk] (https://www.packtpub.com/big-data-and-business-intelligence/mastering-splunk?utm_source=github&utm_medium=repository&utm_campaign=9781782173830)
 * [Splunk Developer's Guide - Second Edition] (https://www.packtpub.com/big-data-and-business-intelligence/splunk-developers-guide-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785882371)
