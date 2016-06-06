@@ -1,0 +1,13 @@
+@echo off
+date /T >> "c:\temp\splunk_testscript.log"
+time /t >> "c:\temp\splunk_testscript.log"
+echo %0 >> "c:\temp\splunk_testscript.log"
+echo %1 >> "c:\temp\splunk_testscript.log"
+echo %2 >> "c:\temp\splunk_testscript.log"
+echo %3 >> "c:\temp\splunk_testscript.log"
+echo %4 >> "c:\temp\splunk_testscript.log"
+echo %5 >> "c:\temp\splunk_testscript.log"
+echo %6 >> "c:\temp\splunk_testscript.log"
+echo %7 >> "c:\temp\splunk_testscript.log"
+echo %8 >> "c:\temp\splunk_testscript.log" 
+echo ***************************>> "c:\temp\splunk_testscript.log"
